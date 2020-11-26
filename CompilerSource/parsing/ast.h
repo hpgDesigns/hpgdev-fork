@@ -33,7 +33,7 @@ struct AST {
   // Used to adapt to current single-error syntax checking interface.
   ErrorCollector herr;
   // A lexed (tokenized) view of the code.
-  const std::unique_ptr<Lexer> lexer;
+  std::unique_ptr<Lexer> lexer;
   // The raw input code, owned by the lexer.
   const std::string &code;
 
@@ -52,7 +52,7 @@ struct AST {
 
   // Disallow copy. Our tokens point into our code.
   AST(const AST &) = delete;
-  AST(AST &&other);
+  AST(AST &&other) = default;
 
  private:
   // Constructs an AST from the code it will parse. Does not initiate parse.
