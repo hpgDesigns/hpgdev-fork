@@ -1,5 +1,4 @@
 ![enigma-dev-logo](https://github.com/hpgDesigns/hpgDesigns/blob/main/Assets/wiki_pics/logo.png)
-![enigma-logo](https://github.com/hpgDesigns/Assets/wiki_pics/logo.png)
 ![logo](https://user-images.githubusercontent.com/75296992/139542170-cdda2b21-2b60-4820-afe6-0ff11e8ae29b.png)
 
 ENIGMA, the Extensible Non-Interpreted Game Maker Augmentation, is an open-source, cross-platform game development environment based on the popular software, Game Maker. Its intent is to provide users with a quality game creation tool and a bridge between high- and low-level programming languages. It can be used either through an IDE, such as its sister project, [LateralGM](https://github.com/IsmAvatar/LateralGM), or its up-and-coming custom frontend, [RadialGM](https://github.com/enigma-dev/RadialGM), or also through its command line interface, [emake](CommandLine/emake).
