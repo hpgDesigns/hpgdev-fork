@@ -5,15 +5,15 @@ Like Game Maker, ENIGMA comprises an easy to use Drag & Drop system as well as i
 
 Although EDL adopts GML's very lax syntax in its scripting, the inputted code is actually parsed and translated into valid C++. This compilation improves size and performance of the language by incredible amounts, while almost magically maintaining its simplicity of use.
 
-Official Website: https://enigma-dev.org
+Official Website: [enigma-dev.rg](https://enigma-dev.org)
 
 
 ## Install
 Enigma can run on various platforms........Mac, Windows, Linux, Opensuse and BSD.
-Please see https://enigma-dev.org/download.htm for installation instructions pertaining to the operating system you want.
+Please see [Download](https://enigma-dev.org/download.htm) for installation instructions pertaining to the operating system you want.
 
 ## Documentation
 We have a community-led Wiki project hosted on our site where users contribute function and other API documentation. All you need to do is register for an account on our forums and you will be able to edit and make changes to the documentation pages.
-* https://enigma-dev.org/forums/
-* https://enigma-dev.org/docs/Wiki/Main_Page
+* [Forum](https://enigma-dev.org/forums/)
+* [Wiki](https://enigma-dev.org/docs/Wiki/Main_Page)
 
