@@ -1,5 +1,6 @@
-title: Slate theme
-description: Slate is a theme for GitHub Pages.
+logo:  hpgDesigns/Assets/wiki_pics/logo.png 
+title: Enigma-dev
+description: enigma is a 2D/3D game environment
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
