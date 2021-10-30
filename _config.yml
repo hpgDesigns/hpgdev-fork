@@ -1,2 +1,6 @@
 logo: /Resources/logo.png
-theme: jekyll-theme-Slate
+title: Slate theme
+description: Slate is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-slate
