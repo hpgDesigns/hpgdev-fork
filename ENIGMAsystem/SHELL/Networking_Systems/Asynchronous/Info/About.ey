@@ -6,7 +6,7 @@ Identifier: Asynchronous
 Description: Utilization of the Berkeley Sockets library for asynchronous GameMaker: Studio compatible networking.
 Author: IsmAvatar and Robert B. Colton
 
-Depends: Linux
+Depends: None
 
 Represents:
-	Build-platforms: Linux
+	Build-platforms: None
