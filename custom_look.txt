@@ -1,0 +1,25 @@
+JTattoo
+Download: http://www.jtattoo.net/Download.html
+Class Names:
+http://www.jtattoo.net/ScreenShots.html
+http://www.jtattoo.net/PredefinedThemes.html
+com.jtattoo.plaf.acryl.AcrylLookAndFeel
+com.jtattoo.plaf.hifi.HiFiLookAndFeel (this gives a dark mode appearance)
+com.jtattoo.plaf.mint.MintLookAndFeel
+com.jtattoo.plaf.noire.NoireLookAndFeel
+
+
+-----------------------------------------------------------------------
+
+
+TinyLaF
+This one is for all you Windows XP/GM6/7 fans, who for all intents and purposes no longer have Windows XP or have Mac or Linux.
+Download: http://www.muntjak.de/hans/java/tinylaf/
+Class Name: de.muntjak.tinylookandfeel.TinyLookAndFeel
+
+-----------------------------------------------------------------------
+
+Quaqua
+According to Mac's licensing, you are technically not allowed to legally use this on platforms other than Mac, but that won't stand up in court see Microsoft V. Apple
+Download: http://www.randelshofer.ch/quaqua/ (once you extract look in the "dist" folder)
+Class Name: ch.randelshofer.quaqua.QuaquaLookAndFeel
